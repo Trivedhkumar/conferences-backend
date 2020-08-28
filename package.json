@@ -1,0 +1,27 @@
+{
+  "name": "backend_latest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trivedhkumar/conferences-backend.git"
+  },
+  "author": "Trivedh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trivedhkumar/conferences-backend/issues"
+  },
+  "homepage": "https://github.com/Trivedhkumar/conferences-backend#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
